@@ -32,4 +32,7 @@ This project demonstrates how to build a remote-controlled car using Arduino, wh
 2. Connect the Bluetooth module and sensors as per the circuit diagram.
 3. Use the mobile app to control the car remotely or let it operate in line-following mode by switching modes.
 
+## Video for the Project
+
+
 
