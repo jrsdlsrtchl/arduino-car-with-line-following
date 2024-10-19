@@ -1,4 +1,4 @@
-# Arduino Remote Control Car with Line Following Feature
+# Arduino Remote Control Car with Line Following Using Light Dependent Resistor (LDR)
 
 ## Project Overview
 
