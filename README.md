@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # Arduino Remote Control Car with Line Following Feature
+=======
+# Arduino Remote Control Car with Line Following Using Light Dependent Resistor (LDR)
+>>>>>>> 128b52aaf886fd0f0ff7299768df2075434b7963
 
 ## Project Overview
 
@@ -26,9 +30,21 @@ This project demonstrates how to build a remote-controlled car using Arduino, wh
 1. **Remote Control**: Once the Bluetooth module is paired with your phone, you can use the mobile app to send commands (e.g., forward, backward, left, right, stop). The Arduino receives these commands and controls the motors accordingly.
 2. **Line Following**: The IR sensors detect the black line, and the Arduino adjusts the car's motors to follow the line, maintaining its position and direction based on sensor input.
 
+<<<<<<< HEAD
 ## Future Improvements
 
 - Add obstacle avoidance functionality.
 - Improve line-following accuracy with better sensor calibration.
 - Enhance the mobile app for smoother control.
+=======
+## Installation & Usage
+
+1. Upload the Arduino sketch to your board.
+2. Connect the Bluetooth module and sensors as per the circuit diagram.
+3. Use the mobile app to control the car remotely or let it operate in line-following mode by switching modes.
+
+## Video Link for the Project
+https://youtube.com/shorts/venxyQOnEhc?feature=share
+
+>>>>>>> 128b52aaf886fd0f0ff7299768df2075434b7963
 
